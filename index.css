@@ -1,0 +1,35 @@
+h1{
+  color:#ff0000;
+  font-size: 60px
+
+  font-family: serif;
+
+  height: 200px
+}
+
+h2{
+  color:aqua
+  font-size: 80px
+}
+
+h3{
+  color:blueviolet
+  font-size: 200px
+}
+
+
+.selected{
+  color:blueviolet
+}
+
+.header{
+  background-color:aquamarine
+ font-size: 60px
+
+  height: 200px
+}
+
+.hear-logo{
+  color:blue
+
+}
